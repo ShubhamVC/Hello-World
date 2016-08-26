@@ -7,4 +7,5 @@ void main()
 {
 printf("THis is first demo of git");
 }
+// This is to check the knowledge about using github//
 
